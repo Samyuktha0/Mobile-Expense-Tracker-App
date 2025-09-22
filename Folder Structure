@@ -1,0 +1,11 @@
+expense-tracker/
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+├── backend/
+│   ├── server.js
+│   └── database.js
+├── data/
+│   └── seed.sql
+├── README.md
