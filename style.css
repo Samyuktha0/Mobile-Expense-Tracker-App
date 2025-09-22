@@ -1,0 +1,5 @@
+body { font-family: Arial; padding: 20px; }
+form { margin-bottom: 20px; }
+input, select, button { margin: 5px; padding: 5px; }
+#expense-list { border-top: 1px solid #ccc; padding-top: 10px; }
+.expense-item { margin-bottom: 10px; }
